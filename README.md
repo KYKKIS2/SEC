@@ -29,9 +29,9 @@ Super Earth Coin (SEC) is a community-driven token on the Solana blockchain, aim
 - **Explorer**: https://solscan.io/token/8g9huv6RNjysz1YPeSz7kxtfvcGzqGFCnGfCXZTtiVS6
 
 ## Socials
-- **Website**: [https://superearthcoin.com](https://superearthcoin.com)
-- **Telegram**: [https://t.me/superearthcoin](https://t.me/superearthcoin)
-- **Twitter**: [https://twitter.com/superearthcoin](https://twitter.com/superearthcoin)
+- **Website**: https://www.helldivers.space/
+- **Telegram**: https://t.me/SuperEarthCoin
+- **Twitter**: https://x.com/HelldiversSEC
 
 ## License
 
