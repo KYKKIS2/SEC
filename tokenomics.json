@@ -1,0 +1,24 @@
+{
+  "token_name": "Super Earth Coin",
+  "symbol": "SEC",
+  "total_supply": "1000000000",  
+  "decimals": 10,
+  "distribution": {
+    "liquidity_pool": "80%",
+    "marketing": "5%",
+    "strategic_reserve": "10%",
+    "team_and_community_rewards": "5%",
+  },
+  "taxes": {
+    "buy_tax": "0%",
+    "sell_tax": "0%",
+    "transfer_tax": "0%"
+  },
+  "blockchain": "Solana",
+  "contract_address": "8g9huv6RNjysz1YPeSz7kxtfvcGzqGFCnGfCXZTtiVS6",
+  "website": "https://superearthcoin.com",
+  "socials": {
+    "telegram": "https://t.me/superearthcoin",
+    "twitter": "https://twitter.com/superearthcoin"
+  }
+}
