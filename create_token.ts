@@ -14,7 +14,7 @@ import {
 import { createUmi } from "@metaplex-foundation/umi-bundle-defaults";
 import fs from "fs";
 
-const secret = JSON.parse(fs.readFileSync("./outputkey.json", "utf-8"));
+const secret = JSON.parse(process.env.PRIVATE_KEY);
 
 (async () => {
     try {
