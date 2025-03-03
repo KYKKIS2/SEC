@@ -16,7 +16,7 @@ Super Earth Coin (SEC) is a community-driven token on the Solana blockchain, aim
 - **Liquidity Pool**: 80%
 - **Team and Community Rewards**: 5%
 - **Marketing**: 5%
-- **Strategic Reserve**: %10
+- **Presale**: %10
 
 ### Taxes
 - **Buy Tax**: 0%
